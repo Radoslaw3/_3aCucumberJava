@@ -1,3 +1,3 @@
 # _3aCucumberJava
 
- The aim for this project is to lern Cucumber for testing with JAVA purpose.
+ The aim for this project is to learn Cucumber for testing with JAVA purpose.
